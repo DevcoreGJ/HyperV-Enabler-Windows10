@@ -1,0 +1,36 @@
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# System files
+*.dll
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+
+# Visual Studio files (if applicable)
+.vs/
+*.sln
+*.suo
+*.user
+
+# User-specific files
+*.env
+
+# IDE specific files (if applicable)
+.idea/
+*.iml
+
+# Others
+*.zip
+*.tar
+*.gz
